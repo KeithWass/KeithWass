@@ -1,7 +1,5 @@
 # Keith Wass
 
-## 👋 Personal Profile
-
 Hello! My name is Keith and I’m a Junior Software Engineer with a passion for problem-solving and the creative side of building applications.
 
 Having recently completed the Northcoders Software Development Bootcamp, I’ve developed a strong foundation in JavaScript and full-stack development. I enjoy breaking down complex problems into manageable solutions and bringing ideas to life through clean, user-friendly interfaces.
