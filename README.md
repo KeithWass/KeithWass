@@ -31,4 +31,4 @@ I’m particularly interested in roles where I can continue learning, contribute
 
 ## Interests
 
-Outside of coding, I have a strong interest in music and design, and I enjoy exploring how creativity and technology intersect.
+Outside of coding, I'm into playing music instruments, creating visual art and generally just passionate about learning.
