@@ -12,7 +12,7 @@ I’m particularly interested in roles where I can continue learning, contribute
 
 ##  Tech Stack
 
-- **Languages:** JavaScript, SQL  
+- **Languages:** JavaScript, Java, SQL  
 - **Frontend:** React, HTML, CSS  
 - **Backend:** Node.js, Express  
 - **Databases:** PostgreSQL  
