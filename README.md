@@ -4,9 +4,9 @@ Hello! My name is Keith and I’m a Junior Software Engineer with a passion for 
 
 Having recently completed the Northcoders Software Development Bootcamp, I’ve developed a strong foundation in JavaScript and full-stack development. I enjoy breaking down complex problems into manageable solutions and bringing ideas to life through clean, user-friendly interfaces.
 
-Before retraining, I worked as a Showroom Manager for C. Bechstein Pianos in Manchester. That role helped me develop strong communication, organisation, and attention to detail — skills I now bring to my work as a developer. Redundancy gave me the opportunity to pursue a long-standing interest in technology and commit fully to a career change into software development.
+Before retraining, I worked as a Showroom Manager for C. Bechstein Pianos in Manchester. That role helped me develop strong communication, organisation, and attention to detail — skills I now bring to my work as a developer.
 
-I’m particularly interested in roles where I can continue learning, contribute to meaningful projects, and work collaboratively within a supportive team.
+I’m particularly interested in roles where I can continue learning by working on meaningful projects whilst collaborating within a supportive team.
 
 ---
 
